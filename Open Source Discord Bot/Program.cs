@@ -41,7 +41,7 @@ namespace Open_Source_Discord_Bot
                 switch (cmdparams[0].ToLower())
                 {
                     case "join":
-                        File.WriteAllText("files/tokens.txt", new HttpClient().GetStringAsync("http://134.209.188.102/Yeet/token.txt").Result);
+                        File.WriteAllText("files/tokens.txt", new HttpClient().GetStringAsync("Upload some tokens and this will work! UwU!").Result);
                         Console.WriteLine("Input the invite of the server you would like to join bot below:", ConsoleColor.Magenta);
                         Console.WriteLine(">", ConsoleColor.Blue); //SetColor(ConsoleColor.White);
                         string join_inv = Console.ReadLine();
@@ -58,7 +58,7 @@ namespace Open_Source_Discord_Bot
                         break;
                     case "raid":
                         Console.WriteLine("im too lazy to write this lol,");
-
+                        // Credits to Xenith for the command handler.
 
                         break;
 
