@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Open Source Discord Bot\Open Source Discord Bot\bin\Debug\Open Source Discord Bot.exe.config
+C:\Users\user\source\repos\Open Source Discord Bot\Open Source Discord Bot\bin\Debug\Open Source Discord Bot.exe
+C:\Users\user\source\repos\Open Source Discord Bot\Open Source Discord Bot\bin\Debug\Open Source Discord Bot.pdb
+C:\Users\user\source\repos\Open Source Discord Bot\Open Source Discord Bot\obj\Debug\Open Source Discord Bot.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Open Source Discord Bot\Open Source Discord Bot\obj\Debug\Open Source Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Open Source Discord Bot\Open Source Discord Bot\obj\Debug\Open Source Discord Bot.exe
+C:\Users\user\source\repos\Open Source Discord Bot\Open Source Discord Bot\obj\Debug\Open Source Discord Bot.pdb
+C:\Users\user\source\repos\Open Source Discord Bot\Open Source Discord Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Open Source Discord Bot\Open Source Discord Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Open Source Discord Bot\Open Source Discord Bot\obj\Debug\Open Source Discord Bot.csproj.CopyComplete
